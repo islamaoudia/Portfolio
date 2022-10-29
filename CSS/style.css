@@ -1,0 +1,45 @@
+ body {
+    background-color: #EEEEEE;
+}
+
+
+.about{
+    background-color:#393E46;
+    height: 200px;
+    width: 1265px;
+    color:white;
+    padding: 0 0 0 30px;
+}
+.svg-icon{
+    height: 100px;
+    width: 100px;
+
+}
+nav ul{
+    list-style: none;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav a:hover{
+    color: yellow;
+}
+nav ul li{
+display:inline-block;
+margin: 0 30px;
+}
+nav h1{
+    margin: 0 0 0 650px;
+}
+nav{
+    background-color: #222831;
+    width: 1273px;
+    height: 60px;
+}
+p > h3{
+    color: white;
+}
+.contact{
+    background-color: #00ADB5;
+}
